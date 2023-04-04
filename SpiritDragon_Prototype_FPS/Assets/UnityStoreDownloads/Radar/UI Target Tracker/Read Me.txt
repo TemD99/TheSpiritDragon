@@ -1,0 +1,13 @@
+Requires either 2D , 3D or PRO Radar Builder version 2018.4.2 and up , in order to test.
+
+go to Tools > DaiMangou > UI Target Tracker.
+
+select a 2D or 3D Radar in your scene.
+
+in the UI Target Tracker Window click the "Add to selected button"
+
+A UITargetTracker script and LockonManager script will be added to the  radar gameobject.
+
+if your radar contains blips you wil see the representations ofthe blips in the UI Target tracker Editor window.
+
+From there you may open up the various foldouts and design the UI of each component to be rendered over your tracked objects.

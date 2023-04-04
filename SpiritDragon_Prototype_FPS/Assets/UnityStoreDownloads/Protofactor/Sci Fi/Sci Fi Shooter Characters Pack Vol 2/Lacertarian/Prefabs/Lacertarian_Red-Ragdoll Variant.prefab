@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7462401823694280589
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3497823134106537972, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 81373b6f89273a84d8afc361949e2dbc, type: 2}
+    - target: {fileID: 3497823134106537972, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 94305de580677014f8037e633f677fa8, type: 2}
+    - target: {fileID: 3497823134106537972, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 89e6f8ffe05331d45914b315bba4eb0e, type: 2}
+    - target: {fileID: 8599221869672353017, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8599221869672353017, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8599221869672353017, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8599221869672353017, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8599221869672353017, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8599221869672353017, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8599221869672353017, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8599221869672353017, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8599221869672353017, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8599221869672353017, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8599221869672353017, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943377098562016835, guid: 7034c42b881411d40801427646189ed3,
+        type: 3}
+      propertyPath: m_Name
+      value: Lacertarian_Dark-Ragdoll Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7034c42b881411d40801427646189ed3, type: 3}

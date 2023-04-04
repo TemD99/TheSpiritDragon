@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 73b8510d4647fa3479cf5be663e9440c
+timeCreated: 1538519727
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackThrusters
+    100002: Captain_Chair
+    100004: FlatBolt010
+    100006: FlatBolt011
+    100008: FlatBolt012
+    100010: FlatBolt013
+    100012: FlatBolt014
+    100014: FlatBolt015
+    100016: FlatBolt016
+    100018: FlatBolt017
+    100020: FlatBolt018
+    100022: FlatBolt019
+    100024: FlatBolt020
+    100026: FlatBolt021
+    100028: FlatBolt022
+    100030: FlatBolt09
+    100032: FrontGun
+    100034: LeftCannon
+    100036: LeftGlass
+    100038: LeftGunBlock01
+    100040: LeftLight
+    100042: MiddleGlass
+    100044: pCube18
+    100046: pCube19
+    100048: RightCannon
+    100050: RightGlass
+    100052: RightGunBlock01
+    100054: RightLight
+    100056: Stearing
+    100058: //RootNode
+    100060: StingrayBody
+    400000: BackThrusters
+    400002: Captain_Chair
+    400004: FlatBolt010
+    400006: FlatBolt011
+    400008: FlatBolt012
+    400010: FlatBolt013
+    400012: FlatBolt014
+    400014: FlatBolt015
+    400016: FlatBolt016
+    400018: FlatBolt017
+    400020: FlatBolt018
+    400022: FlatBolt019
+    400024: FlatBolt020
+    400026: FlatBolt021
+    400028: FlatBolt022
+    400030: FlatBolt09
+    400032: FrontGun
+    400034: LeftCannon
+    400036: LeftGlass
+    400038: LeftGunBlock01
+    400040: LeftLight
+    400042: MiddleGlass
+    400044: pCube18
+    400046: pCube19
+    400048: RightCannon
+    400050: RightGlass
+    400052: RightGunBlock01
+    400054: RightLight
+    400056: Stearing
+    400058: //RootNode
+    400060: StingrayBody
+    2100000: phong1
+    2100002: CockpitArea
+    2100004: Window_Glass
+    2100006: StingerGun
+    2100008: LightBulbGlass
+    2300000: BackThrusters
+    2300002: Captain_Chair
+    2300004: FlatBolt010
+    2300006: FlatBolt011
+    2300008: FlatBolt012
+    2300010: FlatBolt013
+    2300012: FlatBolt014
+    2300014: FlatBolt015
+    2300016: FlatBolt016
+    2300018: FlatBolt017
+    2300020: FlatBolt018
+    2300022: FlatBolt019
+    2300024: FlatBolt020
+    2300026: FlatBolt021
+    2300028: FlatBolt022
+    2300030: FlatBolt09
+    2300032: LeftCannon
+    2300034: LeftGlass
+    2300036: LeftGunBlock01
+    2300038: LeftLight
+    2300040: MiddleGlass
+    2300042: pCube18
+    2300044: pCube19
+    2300046: RightCannon
+    2300048: RightGlass
+    2300050: RightGunBlock01
+    2300052: RightLight
+    2300054: Stearing
+    2300056: StingrayBody
+    3300000: BackThrusters
+    3300002: Captain_Chair
+    3300004: FlatBolt010
+    3300006: FlatBolt011
+    3300008: FlatBolt012
+    3300010: FlatBolt013
+    3300012: FlatBolt014
+    3300014: FlatBolt015
+    3300016: FlatBolt016
+    3300018: FlatBolt017
+    3300020: FlatBolt018
+    3300022: FlatBolt019
+    3300024: FlatBolt020
+    3300026: FlatBolt021
+    3300028: FlatBolt022
+    3300030: FlatBolt09
+    3300032: LeftCannon
+    3300034: LeftGlass
+    3300036: LeftGunBlock01
+    3300038: LeftLight
+    3300040: MiddleGlass
+    3300042: pCube18
+    3300044: pCube19
+    3300046: RightCannon
+    3300048: RightGlass
+    3300050: RightGunBlock01
+    3300052: RightLight
+    3300054: Stearing
+    3300056: StingrayBody
+    4300000: Stearing
+    4300002: RightCannon
+    4300004: FlatBolt015
+    4300006: FlatBolt014
+    4300008: FlatBolt013
+    4300010: FlatBolt012
+    4300012: FlatBolt011
+    4300014: FlatBolt010
+    4300016: FlatBolt09
+    4300018: LeftCannon
+    4300020: FlatBolt022
+    4300022: FlatBolt021
+    4300024: FlatBolt020
+    4300026: FlatBolt019
+    4300028: FlatBolt018
+    4300030: FlatBolt017
+    4300032: FlatBolt016
+    4300034: BackThrusters
+    4300036: Captain_Chair
+    4300038: StingrayBody
+    4300040: RightGlass
+    4300042: MiddleGlass
+    4300044: LeftGlass
+    4300046: LeftGunBlock01
+    4300048: RightGunBlock01
+    4300050: RightLight
+    4300052: LeftLight
+    4300054: pCube18
+    4300056: pCube19
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
